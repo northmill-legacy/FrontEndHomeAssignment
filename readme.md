@@ -1,4 +1,4 @@
-Assignment:
+# Assignment
 High school is opening for a new semester, we are now preparing a React single page application where the students can choose from different group-projects.
 
 Notes:
@@ -19,6 +19,6 @@ Acceptance Criteria:
 6. Be able to reset to initial state
 
 
-Support
+# Support
 
 If you have any questions regarding the assignment, contact us at it-hire@northmill.se.
